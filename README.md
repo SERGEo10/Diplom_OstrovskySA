@@ -7,5 +7,6 @@
 
 ER-диаграмма
 
-![image](https://github.com/user-attachments/assets/3bf1c365-b81d-450c-aafd-123bc36f576a)
+![image](https://github.com/user-attachments/assets/2de2173f-1527-4a4b-9393-e9ea2d542c54)
+
 
